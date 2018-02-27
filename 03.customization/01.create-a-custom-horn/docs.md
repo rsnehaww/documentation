@@ -58,5 +58,5 @@ Here's a video of my result.
 
 [1]: http://vinesauce.com/vinetalk/index.php?topic=850.msg13647#msg13647
 [2]: http://audacity.sourceforge.net/
-[3]: http://www.youtube-mp3.org/
+[3]: https://www.mp3converter.net/
 [4]: http://www.jamendo.com/
